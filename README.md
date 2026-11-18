@@ -48,4 +48,4 @@ Este repositório traz dois notebooks práticos desenvolvidos para automatizar o
 
 **Samuel Santos**  
 Analista de Dados | Geoprocessamento | Meio Ambiente  
-🔗 [LinkedIn](https://www.linkedin.com/in/samuelsantosambiental)
+🔗 [LinkedIn](https://www.linkedin.com/in/samuel-santos-geo/)
